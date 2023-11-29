@@ -1,4 +1,4 @@
-# first example of closure
+# first example of closure--
 def outer_function():
     def inner_function():
         name = "Vishal Yadav"

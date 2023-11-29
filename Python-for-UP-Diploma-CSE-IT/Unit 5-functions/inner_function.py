@@ -1,6 +1,6 @@
 def outer_function(x):
     def inner_function(y):
-        return x+y
+        return x + y
     result_inner = inner_function(5)
     return result_inner
 

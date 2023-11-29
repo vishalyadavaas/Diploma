@@ -1,4 +1,4 @@
-# positional argument(Regular arguments)
+# positional argument(Regular arguments)---
 def info(name,school):
     print(f"Are you {name} ?")
     print(f"Are you from {school} ?")
