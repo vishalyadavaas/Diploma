@@ -7,7 +7,7 @@ def square(x):
 def cube(x):
     return x**3
 
-fun_dictionary ={
+fun_dictionary = {
     'double' : double,
     'square' : square,
     'cube' : cube

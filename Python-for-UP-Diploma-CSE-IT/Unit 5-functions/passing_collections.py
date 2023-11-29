@@ -1,4 +1,4 @@
-# passing list to a function--
+# passing list to a function
 def fun_list(my_list):
     for i in my_list:
         print(i)

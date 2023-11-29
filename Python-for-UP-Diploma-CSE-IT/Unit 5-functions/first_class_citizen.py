@@ -1,4 +1,4 @@
-# function as variable-
+# function as variable
 def my_fun(num):
     return num**2
 

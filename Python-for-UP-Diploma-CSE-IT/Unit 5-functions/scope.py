@@ -1,4 +1,4 @@
-# local scope---
+# local scope
 def fun_local():
     name = "Vishal" # local scope
     print(name)

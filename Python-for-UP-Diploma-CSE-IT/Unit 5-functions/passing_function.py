@@ -1,4 +1,4 @@
-# passing function to a function---
+# passing function to a function
 def display():
     print("Hello world!")
 
